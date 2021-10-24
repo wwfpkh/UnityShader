@@ -1,4 +1,5 @@
 #Unity Shader
-1.Progress Bar     (Unity Edition ：2020.3.4f)
+1.Progress Bar   
+
 By TecrayC
 Email : 3405399599@qq.com
